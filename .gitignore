@@ -1,2 +1,6 @@
 
+#Untrack files:
 devNotes.txt
+
+#Untrack filetypes
+*.swp
